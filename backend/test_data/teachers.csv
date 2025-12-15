@@ -1,0 +1,11 @@
+Teacher_ID,Name,Subject,Slot_IDs
+T01,Mr. Sharma,Math,SL1;SL3;SL5;SL9;SL13;SL17
+T02,Ms. Iyer,Physics,SL2;SL4;SL6;SL10;SL14;SL18
+T03,Mrs. Kaur,Chemistry,SL1;SL5;SL9;SL13;SL17;SL19
+T04,Mr. Das,English,SL2;SL3;SL7;SL11;SL15;SL20
+T05,Dr. Rao,Biology,SL4;SL8;SL12;SL16;SL20
+T06,Ms. Verma,Math,SL2;SL6;SL10;SL14;SL18
+T07,Mr. Singh,Physics,SL1;SL5;SL9;SL13;SL15
+T08,Mrs. Gupta,Chemistry,SL3;SL7;SL11;SL16;SL19
+T09,Mr. Khan,English,SL4;SL8
+T10,Ms. Thomas,Biology,SL1;SL2;SL3;SL4;SL5

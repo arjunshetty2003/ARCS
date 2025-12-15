@@ -71,8 +71,8 @@ Output JSON array ONLY. Example:
 
     # Call Gemini
     # Call Gemini
-    # Switching to gemini-flash-latest (last resort)
-    model = genai.GenerativeModel("gemini-flash-latest")
+    # Reverting to gemini-2.5-flash
+    model = genai.GenerativeModel("gemini-2.5-flash")
     generation_config = genai.GenerationConfig(temperature=0.0)
     
     try:
